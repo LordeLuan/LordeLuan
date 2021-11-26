@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou o @LordeLuan
 - 👀 Eu comecei a estudar programação recentemente.
-- 🌱 Atualmente estou estudando Java e Angular em um BootCamp pela plataforma DIO.
+- 🌱 Atualmente estou estudando Java no programa +Devs2Blu.
 - 📫 Gostando bastante de aprender cada vez mais nessa área.
 - 🛠 Sinta-se a vontade para compartilhar conhecimento comigo😊.
