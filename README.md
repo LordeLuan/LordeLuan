@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Luan Lordello
 - 🌱 Atualmente estou estudando Java no programa +Devs2Blu.
 - 📫 Gostando de aprender mais dessa área e buscando uma oportunidade de trabalho.
-- 🛠 Juntamente a linguagem Java estou aprendendo também HTML 5, CSS 3, Javascript, TypeScript, DB, angular 9, Bootstrap 4, Spring(boot, data e security).
+- 🛠 Juntamente a linguagem Java estou aprendendo também HTML 5, CSS 3, Javascript, TypeScript, DB, angular 9+, Bootstrap 4, Spring(boot, data e security).
 
 <div align="center">
   <a href="https://github.com/LordeLuan">
@@ -11,7 +11,10 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Luan-Angular" height="30" width="60" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Luan-CSS" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Luan-JS" height="30" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
  
   ##
