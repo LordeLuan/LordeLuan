@@ -1,7 +1,6 @@
-## Olá, Eu sou o Luan Lordello
-- 🌱 Atualmente estou estudando Java no programa +Devs2Blu.
-- 📫 Gostando de aprender mais dessa área e buscando uma oportunidade de trabalho.
-- 🛠 Juntamente a linguagem Java estou aprendendo também HTML 5, CSS 3, Javascript, TypeScript, DB, angular 9+, Bootstrap 4, Spring(boot, data e security).
+## Olá, Eu sou Luan Lordello
+- 🌱 Desenvolvedor fullstack java/angular
+- 🛠  Sempre aprendendo novas tecnologias e boas práticas.
 
 <div align="center">
   <a href="https://github.com/LordeLuan">
